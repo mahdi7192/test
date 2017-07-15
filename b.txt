@@ -7,3 +7,10 @@ funcA(){
   lskdk;jdsnkjsf
   k;jsdnlkjsdfksdfndf
 }
+
+
+funcB(){
+  klamsksdkclk
+  lk;sadkj;sdn;
+  ;kjsdkjsdnfkjdf
+}
